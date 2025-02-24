@@ -12,7 +12,7 @@ We use the **GitHub Wiki** to list and track community projects. Each project ge
 Do you have a project based on the TF2 open-source code? Follow these steps to add it to the tracker:
 
 1. **Fork this repository** (optional, but encouraged).
-2. **Visit the [GitHub Wiki](https://github.com/HATS/wiki)** and create a new page for your project.
+2. **Visit the [GitHub Wiki](https://github.com/DeWolfRobin/HATS/wiki)** and create a new page for your project.
 3. Include the following details in your wiki entry:
    - **Project Name**
    - **Description**
@@ -27,10 +27,6 @@ Do you have a project based on the TF2 open-source code? Follow these steps to a
 Collaboration is key! Join our **Discord server** to discuss ideas, ask for help, and connect with other developers.
 
 🔗 **Join the Discord**: [Invite Link](https://discord.gg/NJmFESwyt6)
-
-You can also participate in discussions via **GitHub Discussions**:
-
-🔗 [GitHub Discussions](https://github.com/HATS/discussions)
 
 ## 🔧 Guidelines & Rules
 - Respect other contributors and their projects.
